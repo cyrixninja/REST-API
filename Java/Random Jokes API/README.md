@@ -1,5 +1,6 @@
+# Random Jokes API
 
-# SpringBoot REST API Example 2 (Random Jokes)
+This API fetches data from /src/main/resources/jokes.json when a request is made from a server.This json contains a limited list of jokes for now which can be extended according to your use.
 
 # How to Run
 

@@ -1,4 +1,6 @@
-# SpringBoot REST API Example 1 (Random Quotes)
+# Random Quotes API
+
+This API fetches data from /src/main/resources/quotes.json when a request is made from a server.This json contains a limited list of quotes for now which can be extended according to your use.
 
 # How to Run
 

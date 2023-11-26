@@ -1,4 +1,8 @@
-# SpringBoot REST API Example 3 (Dictionary API)
+# Dictionary API
+
+Dataset used for making this API - [Dataset](https://github.com/matthewreagan/WebstersEnglishDictionary) 
+
+This API fetches data from /src/main/resources/dictionary.json when a request is made from a server.
 
 # How to Run
 
