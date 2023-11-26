@@ -37,8 +37,11 @@ The API will respond with a JSON object containing the classification
 If there are any errors, the API will respond with an error message.
 
 ## Project Structure
+
 app.py: Main script containing the Flask application and classification logic.
+
 model.joblib: Pre-trained machine learning model for email phishing classification.
+
 README.md: Documentation for the project.
 
 ## Train (Faster Model but Less Accurate)
