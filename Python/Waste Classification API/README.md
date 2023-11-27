@@ -52,7 +52,7 @@ api/static/: Directory to store temporary image files.
 
 
 ## Train the Model (Optional)
-This step is only required if you want to change the model.
+This step is only required if you want not to use pre-trained model.
 
 Download the [Dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data) and place it in /train directory before proceeding to this step.
 
@@ -62,7 +62,6 @@ Structure :
 
 /DATASET
 train.py
-waste_classification_model.h5
 ```
 
 ```
