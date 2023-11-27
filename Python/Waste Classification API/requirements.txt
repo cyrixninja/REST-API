@@ -1,0 +1,7 @@
+tensorflow
+Pillow
+keras
+matplotlib
+opencv-python
+pandas
+tqdm
