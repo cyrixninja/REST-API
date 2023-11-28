@@ -23,7 +23,7 @@ git commit -m "Commit Message"
 7. Open a pull request against the main repository.
 
 ## Reporting Issues
-If you encounter any issues with the existing codebase or have suggestions for improvements, [create an issue on GitHub](https://github.com/cyrixninja/REST-API-Library/issues) to report the problem or suggest an enhancement. Provide as much detail as possible, including steps to reproduce the issue.
+If you encounter any issues with the existing codebase or have suggestions for improvements, [create an issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to report the problem or suggest an enhancement. Provide as much detail as possible, including steps to reproduce the issue.
 
 ## Code of Conduct
 Please note that this project follows the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating in this project, you agree to abide by its terms.
