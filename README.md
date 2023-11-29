@@ -32,6 +32,10 @@ Welcome to our comprehensive collection of REST APIs, thoughtfully crafted with 
 -  A Python Flask API leveraging a Convolutional Neural Network (CNN) model for waste classification. This API helps identify and categorize waste based on images, contributing to environmental awareness.
 - Delve into the [Waste Classification API Documentation](/Python/Waste%20Classification%20API/README.md) for details on how to implement this API in your projects.
 
+### 4. Object Identification API
+- This Python Flask API provides a simple and efficient way to perform object identification using YOLOv8 models. Given an input image, the API identifies objects present in the image, providing information such as class, coordinates, and probability.
+- Delve into the [Object Identification API](/Python/Object%20Identification%20API/README.md) for details on how to implement this API in your projects.
+
 ## Rust API
 
 ### 1. Image Conversion API
