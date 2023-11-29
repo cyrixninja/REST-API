@@ -55,7 +55,7 @@ curl -X POST -H "Content-Type: image/jpeg" --data-binary "@images/img.jpg" http:
     - Content-Type: image/jpeg
 - Body: Select the binary file option and upload an image file (e.g., img.jpg)
 
-![Img](/screenshots/1.png)
+![Img](screenshots/1.png)
 
 
 ### Example Response 
